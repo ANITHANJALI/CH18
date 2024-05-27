@@ -7,10 +7,10 @@ int res=num%2;
 System.out.println(res);
 if(res==0)
 {
-System.out.println("even");
+System.out.println(num + "is  even");
 }
 else{
-System.out.println("odd");
+System.out.println(num + "is odd");
 }
 }
 }
